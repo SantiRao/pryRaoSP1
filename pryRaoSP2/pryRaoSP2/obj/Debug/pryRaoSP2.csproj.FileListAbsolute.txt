@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.frmReservaCabañas.resources
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\bin\Debug\pryRaoSP2.exe.config
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\bin\Debug\pryRaoSP2.exe
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\bin\Debug\pryRaoSP2.pdb
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.exe
+C:\Users\Usuario\Source\Repos\SantiRao\pryRaoSP2\pryRaoSP2\obj\Debug\pryRaoSP2.pdb
